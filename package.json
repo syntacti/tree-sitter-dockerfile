@@ -9,9 +9,9 @@
   "author": "Camden Cheek <camden@ccheek.com>",
   "license": "ISC",
   "dependencies": {
-    "nan": "^2.14.2"
+    "nan": "^2.16.0"
   },
   "devDependencies": {
-    "tree-sitter-cli": "^0.20.1"
+    "tree-sitter-cli": "^0.20.6"
   }
 }
